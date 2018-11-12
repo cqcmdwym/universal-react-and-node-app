@@ -1,6 +1,6 @@
 // src/components/NotFoundPage.js
 import React from 'react';
-import { Link } from 'react-router';
+import { Link } from 'react-router-dom';
 
 export default class NotFoundPage extends React.Component {
   render() {
